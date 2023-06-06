@@ -11,4 +11,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Open Github issue in this repository.
+If the vulnerability has large impact please contanct project maintainers by opening github issue and asking to be contacted.
